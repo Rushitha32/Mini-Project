@@ -220,15 +220,6 @@ int operations()
 float bmi() {
 
    float weight;
-//    float height;
-//    printf("Enter your weight \n");
-//    scanf("%.2f",&weight);
-   
-//    printf("Enter your height \n");
-//    getchar();
-//    scanf("%.2f",&height);
-
-//    float bmi = (weight/height)*2;
 
 float height;
 scanf("%.2f",&weight);
